@@ -1,5 +1,6 @@
 <?php
 /**
+test
  * Hook Component
  *
  * PHP version 5
